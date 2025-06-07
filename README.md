@@ -1,5 +1,4 @@
 # Fairlearn AV Bias Evaluation
-# Fairlearn AV Bias Evaluation
 
 Evaluation of potential **bias and fairness issues** in AI models used for autonomous vehicle (AV) decision-making, using the **Fairlearn Python library**.
 
