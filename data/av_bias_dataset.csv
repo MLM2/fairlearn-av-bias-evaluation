@@ -1,0 +1,11 @@
+group,scenario,decision,ground_truth
+A,crosswalk_clear,1,1
+B,crosswalk_clear,1,1
+A,pedestrian_present,0,0
+B,pedestrian_present,1,0
+A,traffic_light_red,0,0
+B,traffic_light_red,0,0
+A,emergency_vehicle_approach,1,1
+B,emergency_vehicle_approach,1,1
+A,crosswalk_clear,1,1
+B,crosswalk_clear,0,1
